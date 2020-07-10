@@ -1,19 +1,19 @@
 {
   "stk_section_def": [
     {   "code": 1,
- 	"description": "Kısım0"
+ 	"description": "Kısım0",
         "last_updated": "10042020",
- 	"tax_rate": "18",
+ 	"tax_rate": "18"
     },
     {   "code": 2,
- 	"description": "Kısım1"
+ 	"description": "Kısım1",
         "last_updated": "10042020",
- 	"tax_rate": "8",
+ 	"tax_rate": "8"
     },
     {   "code": 3,
- 	"description": "Kısım2"
+ 	"description": "Kısım2",
         "last_updated": "10042020",
- 	"tax_rate": "0",
+ 	"tax_rate": "0"
     }
   ]
 }
