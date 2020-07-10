@@ -1,8 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "title-one", "author": "mustafayumurtaci" },
-    { "id": 2, "title": "title-two", "author": "mustafayumurtaci" },
-    { "id": 3, "title": "title-three", "author": "mustafayumurtaci" },
-    { "id": 4, "title": "title-four", "author": "mustafayumurtaci" }
+  "stk_section_def": [
+    {   "code": 1,
+ 	"description": "Kısım0"
+        "last_updated": "10042020",
+ 	"tax_rate": "18",
+    },
+    {   "code": 2,
+ 	"description": "Kısım1"
+        "last_updated": "10042020",
+ 	"tax_rate": "8",
+    },
+    {   "code": 3,
+ 	"description": "Kısım2"
+        "last_updated": "10042020",
+ 	"tax_rate": "0",
+    }
   ]
 }
