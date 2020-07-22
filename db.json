@@ -5,42 +5,42 @@
       "last_updated": "2072020",
       "tax_rate": 8,
       "stoppage_rate": 20,
-      "is_deleted": false
+      "is_deleted": "false"
     },
     { "code": 2,
       "description": "KISIM-2",
       "last_updated": "2072020",
       "tax_rate": 18,
       "stoppage_rate": 10,
-      "is_deleted": false
+      "is_deleted": "false"
     },
     { "code": 3,
       "description": "KISIM-3",
       "last_updated": "2072020",
       "tax_rate": 0,
       "stoppage_rate": 0,
-      "is_deleted": false
+      "is_deleted": "false"
     },
     { "code": 4,
       "description": "KISIM-4",
       "last_updated": "2072020",
       "tax_rate": 8,
       "stoppage_rate": null,
-      "is_deleted": false
+      "is_deleted": "false"
     },
     { "code": 5,
       "description": "KISIM-5",
       "last_updated": "2072020",
       "tax_rate": 18,
       "stoppage_rate": null,
-      "is_deleted": false
+      "is_deleted": "false"
     },
     { "code": 6,
       "description": "KISIM-6",
       "last_updated": "2072020",
       "tax_rate": 0,
       "stoppage_rate": null,
-      "is_deleted": false
+      "is_deleted": "false"
     }
   ]
 }
